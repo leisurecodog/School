@@ -1,0 +1,8 @@
+pip install pillow
+pip install bs4
+pip install keras
+pip install tensorflow
+pip install requests
+pip install jieba
+
+Application¬°¥D­¶­±

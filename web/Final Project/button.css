@@ -1,0 +1,89 @@
+.button1{
+  border: 1px gray pink;
+  width:100px;
+  height: 50px;
+  border-radius: 10%;
+  display:inline-block;
+  padding :5px;
+  background-color:#FFB7DD;
+  opacity: 0.8;
+  transition: .3s linear;
+  font-family: monospace;
+  font-size: 1.1em;
+  margin: 10px;
+}
+.button1:hover{
+  background-color: #FF7744;
+}
+.btn{
+
+}
+.Fbtn{
+  border: 1px gray pink;
+  width:100px;
+  height: 50px;
+  border-radius: 10%;
+  display:inline-block;
+  padding :5px;
+  background-color:#FFB7DD;
+  opacity: 0.8;
+  transition: .3s linear;
+  font-family: monospace;
+  font-size: 1.1em;
+  margin: 10px;
+}
+.Fbtn:hover{
+  background-color: #FF7744;
+}
+.button2{
+  border: 1px gray pink;
+  width:100px;
+  height: 50px;
+  border-radius: 10%;
+  display:inline-block;
+  padding :5px;
+  background-color:#FFB7DD;
+  opacity: 0.8;
+  transition: .3s linear;
+  font-family: monospace;
+  font-size: 1.1em;
+  margin: 10px;
+}
+.button2:hover{
+  background-color: #FF7744;
+}
+.barButton{
+  border: 5px gray pink;
+  background-color: inherit;
+  border-radius:10%;
+  width:100px;
+  height:45px;
+  font-family:monospace;
+  transition: .2s linear;
+}
+.barButton:hover{
+  background-color: #FF7744;
+}
+.LogButton{
+  border: 1px gray pink;
+  width:100px;
+  height: 50px;
+  border-radius: 10%;
+  display:inline-block;
+  padding :5px;
+  background-color:black;
+  opacity: 0.8;
+  transition: .3s linear;
+  font-family: monospace;
+  font-size: 1.1em;
+  margin: 10px;
+}
+.LogButton:hover{
+  color:white;
+}
+.inactive{
+  display: none;
+}
+.inactive1{
+  display: none;
+}

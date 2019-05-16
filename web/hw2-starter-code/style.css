@@ -1,0 +1,32 @@
+/* TODO(you): Write the CSS to finish the assignment! */
+.be
+{
+  display:flex;
+  align-items: center;
+}
+div{
+  background-color: #f4f4f4;
+  width:32.5%;
+  margin-right:10px;
+  margin-bottom: 20px;
+  padding:10px;
+  border: 1px #dcdcdc;
+}
+div img{
+  display: inline;
+  width: 100%;
+  padding :0px;
+}
+.bu
+{
+  display: inline-block;
+  width:100%;
+  height: 40px;
+  margin-bottom: 20px;
+  background-color: #cecece;
+  align-items: center;
+}
+.bu:hover
+{
+  background-color: #e0e0e0;
+}

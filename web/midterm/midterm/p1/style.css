@@ -1,0 +1,91 @@
+.B
+{
+  display: block;
+  font-family: 'Lora', serif;
+  color: rgba(26, 26, 26, 0.7);
+}
+
+a
+{
+  margin-left: 15px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  line-height: 75px;
+}
+h1
+{
+  color:rgb(40, 40, 40);
+}
+img
+{
+  width: 30vw;
+  padding: 0px;
+}
+.f
+{
+  display: block;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  line-height: 56px;
+  font-size: 38px;
+  text-align: center;
+}
+.hhhea
+{
+  display:block;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 68px;
+  color:white;
+  bold;
+  letter-spacing: : 4px;
+  text-align: center;
+  margin-top: -500px;
+  line-height: 500px;
+}
+.himage
+{
+  height: 500px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.first
+{
+  display:inline;
+    font-size:30px;
+    margin-left:40px;
+    margin-right: 25px;
+}
+.in p
+{
+  line-height: 30px;
+  font-size: 14px;
+}
+.fcon
+{
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 100px;
+}
+.in
+{
+  display: block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.in h1
+{
+  font-size: 18px;
+}
+.powerd
+{
+  line-height: 75px;
+  background-color: rgb(200, 200, 200);
+  font-family: 'Open Sans', sans-serif;
+  color: rgba(255, 255, 255, 0.8);
+  letter-spacing: 1px;
+  text-align: center;
+  font-size: 12px;
+}
